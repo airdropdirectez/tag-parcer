@@ -12,7 +12,7 @@
         }
     ],
     "autoload": {
-        "par-4": {
+        "prs-4": {
             "chlz\\parser\\":"src/"
         }
     },
