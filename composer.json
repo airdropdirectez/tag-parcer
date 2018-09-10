@@ -4,7 +4,7 @@
     "require": {
         "php": "^7.0"
     },
-    "license": "GLP v2",
+    "license": "CPL-1.0",
     "authors": [
         {
             "name": "Alex Kirillov",
