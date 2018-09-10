@@ -1,0 +1,54 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "7e31ba5f260a3d620d7f69a996b19e22",
+    "packages": [
+        {
+            "name": "chlz/test-composer",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/airdropdirectez/tag-parcer.git",
+                "reference": "495ee3b7052bb5a3c2de07e7b8ecd6970728a0ff"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/airdropdirectez/tag-parcer/zipball/495ee3b7052bb5a3c2de07e7b8ecd6970728a0ff",
+                "reference": "495ee3b7052bb5a3c2de07e7b8ecd6970728a0ff",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "chlz\\parser\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "CPL-1.0"
+            ],
+            "authors": [
+                {
+                    "name": "Alex Kirillov",
+                    "email": "alexkirillovmgn@gmail.com"
+                }
+            ],
+            "description": "just test",
+            "time": "2018-09-10T05:48:27+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

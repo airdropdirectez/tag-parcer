@@ -2,7 +2,8 @@
     "name": "chlz/test-composer",
     "description": "just test",
     "require": {
-        "php": "^7.0"
+        "php": "^7.0",
+        "chlz/test-composer": "^1.0"
     },
     "license": "CPL-1.0",
     "authors": [

@@ -1,0 +1,40 @@
+[
+    {
+        "name": "chlz/test-composer",
+        "version": "1.0.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/airdropdirectez/tag-parcer.git",
+            "reference": "495ee3b7052bb5a3c2de07e7b8ecd6970728a0ff"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/airdropdirectez/tag-parcer/zipball/495ee3b7052bb5a3c2de07e7b8ecd6970728a0ff",
+            "reference": "495ee3b7052bb5a3c2de07e7b8ecd6970728a0ff",
+            "shasum": ""
+        },
+        "require": {
+            "php": "^7.0"
+        },
+        "time": "2018-09-10T05:48:27+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "chlz\\parser\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "CPL-1.0"
+        ],
+        "authors": [
+            {
+                "name": "Alex Kirillov",
+                "email": "alexkirillovmgn@gmail.com"
+            }
+        ],
+        "description": "just test"
+    }
+]
