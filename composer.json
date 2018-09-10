@@ -1,0 +1,20 @@
+{
+    "name": "chlz/test-composer",
+    "description": "just test",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "GLP v2",
+    "authors": [
+        {
+            "name": "Alex Kirillov",
+            "email": "alexkirillovmgn@gmail.com"
+        }
+    ],
+    "autoload": {
+        "par-4": {
+            "chlz\\parser\\":"src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
